@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+
+# Dados e artefatos pesados
+data/
+artifacts/
+*.joblib
+*.pkl
+*.csv
+*.json
+
+# IDE / SO
+.vscode/
+.DS_Store
